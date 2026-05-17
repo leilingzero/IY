@@ -20,28 +20,34 @@
         "name": "播放源下载(❤下载过,才能用)",
         "list": [
             {
+                "name": "本地【vox】",
+                "url": "http://xw.123234567.xyz:60255/jiduo/vox本地包.zip",
+                "icon": "https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/IY/main/封面/源.png",
+                "version": "最新版本"
+            },
+            {
                 "name": "本地库【ff】",
                 "url": "https://ghfile.geekertao.top/https://raw.githubusercontent.com/IY-CPU/test/main/本地库【ff】.zip",
                 "icon": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/封面/源.png",
-                "version": "2026.05.03版"
+                "version": "2026.05.17版"
             },
             {
                 "name": "备用库【ff】",
                 "url": "https://wget.la/https://raw.githubusercontent.com/IY-CPU/test/main/本地库【ff】.zip",
                 "icon": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/封面/源.png",
-                "version": "2026.05.03版"
+                "version": "2026.05.17版"
             },
             {
                 "name": "本地【小虎斑】",
                 "url": "https://ghfile.geekertao.top/https://raw.githubusercontent.com/IY-CPU/IY/main/小虎斑.zip",
                 "icon": "https://img0.baidu.com/it/u=3403550249,2192222310&fm=253&fmt=auto?w=800&h=804",
-                "version": "15.8"
+                "version": "15.8.1"
             },
             {
                 "name": "缘起【天神IY】",
                 "url": "https://ghfile.geekertao.top/https://raw.githubusercontent.com/IY-CPU/IY/main/缘起【天神IY】.zip",
                 "icon": "http://gh.llkk.cc/https://raw.githubusercontent.com/IY-CPU/IY/main/封面/源.png",
-                "version": "2026.05.03版"
+                "version": "2026.05.17版"
             },
             {
                 "name": "真心全量包1",
